@@ -1,2 +1,1 @@
-# 210701244-CS19P18-Deep-Learning-Concepts
-Deep Leaning Concepts Assignments 
+# 210701244 R SHARVESH DEEP LEARNING CONCEPTS LAB
